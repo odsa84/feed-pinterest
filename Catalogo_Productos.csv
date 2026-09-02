@@ -1,0 +1,4 @@
+id;title;description;link;image_link;price;availability;condition;google_product_category;brand;color;size;item_group_id;gender
+CAM-BL-S;Camiseta Algodon Blanca S;Camiseta de algodon 100% organico talla S color blanco ideal para clima calido;https://tienda.com/productos/camiseta-blanca-s;https://tienda.com/img/camiseta-blanca.jpg;299.99 MXN;IN_STOCK;new;1604262;MiMarca;Blanco;S;CAM-BASE-001;unisex
+CAM-BL-M;Camiseta Algodon Blanca M;Camiseta de algodon 100% organico talla M color blanco ideal para clima calido;https://tienda.com/productos/camiseta-blanca-m;https://tienda.com/img/camiseta-blanca.jpg;299.99 MXN;IN_STOCK;new;1604262;MiMarca;Blanco;M;CAM-BASE-001;unisex
+PAN-AZ-32;Pantalon Jean Azul 32;Pantalon de mezclilla corte slim fit talla 32 color azul oscuro;https://tienda.com/productos/jean-azul-32;https://tienda.com/img/jean-azul.jpg;799.00 MXN;IN_STOCK;new;187;MiMarca;Azul;32;PAN-BASE-001;male
